@@ -1,6 +1,6 @@
 # Amigo-secreto
 ![Static Badge](https://img.shields.io/badge/Estado%20del%20proyecto-Finalizado-8a106e)
- ![Static Badge](https://img.shields.io/badge/Autor-Jared%20Guerrero-%23810C22)
+ 
 
 ![Amigo secreto](https://github.com/user-attachments/assets/3ebfee5a-d431-46a4-952d-ef67920643e7)
 <h1 align="center">  Challenge Amigo Secreto </h1>
