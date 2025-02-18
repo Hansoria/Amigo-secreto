@@ -52,4 +52,4 @@ Desafío del Curso de Alura el cual consiste en desarrollar las funciones de una
 
 ## Autores
 |
-| :---: | 
+| :Hania Soria: | 
